@@ -1,0 +1,12 @@
+
+Ssquid:S1854"9Remove this useless assignment to local variable "exist".(Ï÷ç¨ùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ð¶êüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚Þ¿—ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(–åÓÚ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ÷¸ôÿÿÿÿÿ
+Usquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+Dsquid:S1481"*Remove this unused "exist" local variable.(Ï÷ç¨ùÿÿÿÿ

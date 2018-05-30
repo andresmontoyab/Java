@@ -1,0 +1,5 @@
+
+†squid:S1319"qThe type of the "songs" object should be an interface such as "List" rather than the implementation "LinkedList".(…ŒÞÞ
+@squid:S1068"+Remove this unused "forward" private field.(§Ñ¾‡
+‹squid:S1319"qThe type of the "songs" object should be an interface such as "List" rather than the implementation "LinkedList".(ÈÌ¹Ñþÿÿÿÿ
+‹squid:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ø¼À·þÿÿÿÿ

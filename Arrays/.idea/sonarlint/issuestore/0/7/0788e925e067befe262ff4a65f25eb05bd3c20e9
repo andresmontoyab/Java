@@ -1,0 +1,21 @@
+
+ysquid:S1192"_Define a constant instead of duplicating this literal "Please enter the branch name :" 4 times.(Àø¢ñûÿÿÿÿ
+squid:S1319"sThe type of the "branches" object should be an interface such as "List" rather than the implementation "ArrayList".(à’‰Æşÿÿÿÿ
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(áí•
+ˆsquid:S1319"sThe type of the "branches" object should be an interface such as "List" rather than the implementation "ArrayList".(©ÊİÄ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜áıà
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àø¢ñûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àø¢ñûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àø¢ñûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ƒÁ·ıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àø¢ñûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó®ÓÒıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ìğï

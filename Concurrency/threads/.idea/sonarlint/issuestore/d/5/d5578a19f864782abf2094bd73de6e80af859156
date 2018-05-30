@@ -1,0 +1,11 @@
+
+Osquid:S1191"5Use classes from the Java API instead of Sun classes.(¥Έ™όÿÿÿÿ
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(©§»
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(»¬ούÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(€Ι†ώÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€
+?squid:S00108")Either remove or fill this block of code.(δ Ή€
+psquid:UselessImportCheck"IRemove this unused import 'com.sun.corba.se.spi.orbutil.threadpool.Work'.(¥Έ™όÿÿÿÿ

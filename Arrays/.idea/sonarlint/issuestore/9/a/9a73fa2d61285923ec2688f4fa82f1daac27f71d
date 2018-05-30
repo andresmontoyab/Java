@@ -1,0 +1,10 @@
+
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ëÀµ©øÿÿÿÿ
+^squid:S2583"DChange this condition so that it does not always evaluate to "false"(à»·çüÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Çµí‘
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ŸÂœ·
+Xsquid:S2583"CChange this condition so that it does not always evaluate to "true"(°˜î
+W
+squid:S899"<Do something with the "boolean" value returned by "hasNext".(á¾ÿ­8×…½Š»,
+`squid:S1192"FDefine a constant instead of duplicating this literal "Indie" 3 times.(òÁ›Ğûÿÿÿÿ
+Lsquid:S2589"7Remove this expression which always evaluates to "true"(°˜î

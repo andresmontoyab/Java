@@ -1,0 +1,10 @@
+
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê’ŞÇ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(êûµ»şÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S00108")Either remove or fill this block of code.(ä ¹€
+gsquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø

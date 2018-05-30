@@ -1,0 +1,4 @@
+
+Œsquid:S1319"wThe type of the "transactions" object should be an interface such as "List" rather than the implementation "ArrayList".(é›Å½
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(±Î×²
+squid:S1319"tThe type of the "customers" object should be an interface such as "List" rather than the implementation "ArrayList".(âòÜøÿÿÿÿ

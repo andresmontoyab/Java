@@ -1,0 +1,20 @@
+
+Ksquid:S00108")Either remove or fill this block of code.(²ı…¦ûÿÿÿÿ8ÎÙ™¡¶,
+Isquid:S1604"(Make this anonymous inner class a lambda(„ıïúÿÿÿÿ8ÎÙ™¡¶,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ïÛ¯8ÎÙ™¡¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô¥‘Äùÿÿÿÿ8ú™¨¡¶,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ÅĞ¸8ÎÙ™¡¶,
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(æú¶ı8ÎÙ™¡¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌÄõĞøÿÿÿÿ8ÎÙ™¡¶,
+gsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(²ı…¦ûÿÿÿÿ8ÎÙ™¡¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í°Öşÿÿÿÿ8ÎÙ™¡¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úí•ôşÿÿÿÿ8ã§¡¶,
+Dsquid:S1604"(Make this anonymous inner class a lambda(¶˜á8ÎÙ™¡¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(©¢™‡ûÿÿÿÿ8ÎÙ™¡¶,

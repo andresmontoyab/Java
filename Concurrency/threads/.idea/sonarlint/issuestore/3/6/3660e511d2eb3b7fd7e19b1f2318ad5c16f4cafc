@@ -1,0 +1,9 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(è¯†äÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(è¯†äÿÿÿÿÿ
+=squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+=squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+[squid:S3457"AFormat specifiers should be used instead of string concatenation.(è¯†äÿÿÿÿÿ
+[squid:S3457"AFormat specifiers should be used instead of string concatenation.(è¯†äÿÿÿÿÿ

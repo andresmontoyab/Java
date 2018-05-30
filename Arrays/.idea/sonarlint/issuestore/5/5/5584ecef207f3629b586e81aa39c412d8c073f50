@@ -1,0 +1,14 @@
+
+‰squid:S1319"tThe type of the "customers" object should be an interface such as "List" rather than the implementation "ArrayList".(è¿šç
+‰squid:S1319"tThe type of the "customers" object should be an interface such as "List" rather than the implementation "ArrayList".(ö£Ò
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(îİ„«
+squid:S1319"tThe type of the "customers" object should be an interface such as "List" rather than the implementation "ArrayList".(ìœÖ»ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(×áôî
+squid:S1319"tThe type of the "customers" object should be an interface such as "List" rather than the implementation "ArrayList".(Ù—ùÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(îİ„«
+„squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(äÔÉ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(×áôî

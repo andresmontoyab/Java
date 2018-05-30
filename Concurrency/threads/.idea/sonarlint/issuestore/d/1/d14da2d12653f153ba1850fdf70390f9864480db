@@ -1,0 +1,21 @@
+
+esquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Αλ‘%
+Msquid:S1751"8Remove this "continue" statement or make it conditional.(Ι©ƒ
+`squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(²ύ…¦ϋÿÿÿÿ
+Fsquid:S1068"1Remove this unused "accountNumber" private field.(Ε„ΥΨ
+Dsquid:S00108")Either remove or fill this block of code.(²ύ…¦ϋÿÿÿÿ
+Esquid:S1068"+Remove this unused "balance" private field.(ΥΆ’£ÿÿÿÿÿ
+`squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(²ύ…¦ϋÿÿÿÿ
+Dsquid:S00108")Either remove or fill this block of code.(²ύ…¦ϋÿÿÿÿ
+fsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(δ·
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(®“Ψωÿÿÿÿ
+Jsquid:S1659"0Declare "destinationAccount" on a separate line.(ÒΜ ξϋÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(δ·
+ksquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ν¥πόÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ν¥πόÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(Αλ‘%
+ksquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(®“Ψωÿÿÿÿ

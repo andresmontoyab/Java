@@ -1,0 +1,23 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚŸñ®8¦€„ˆ»,
+Gsquid:S1481",Remove this unused "strings" local variable.(Œ¥¾J8˜ıˆˆ»,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì¸˜Àûÿÿÿÿ8¶´€ˆ»,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¼8¾ñô‡»,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚Ô©¿øÿÿÿÿ8°¢ò‡»,
+Vsquid:S1854";Remove this useless assignment to local variable "strings".(Œ¥¾J8˜ıˆˆ»,
+Bsquid:S2129"!Remove this "Integer" constructor(‰Ëßıÿÿÿÿ8¿Úş‡»,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì£×şÿÿÿÿ8°¢ò‡»,
+?squid:S1068"+Remove this unused "scanner" private field.(·¸ã
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ËÎŸùÿÿÿÿ8™°õ‡»,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(üìÿûÿÿÿÿ8×›€ˆ»,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‰˜Ûûÿÿÿÿ8¶´€ˆ»,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø–ş¶8°¢ò‡»,

@@ -1,0 +1,33 @@
+
+Xsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶
+Xsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶
+Gsquid:S1444"-Make this "public static lockOne" field final(ê§á„şÿÿÿÿ
+Bsquid:S1444"-Make this "public static lockTwo" field final(Ç´æ“
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢—ÆŒıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç•‰Ùúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(²Ÿßêøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠæÕ½şÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßèòøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ËË‰ûÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿäë}
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(øäÁçÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª£“Êıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÄË‘üÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"SMake lockOne a static final constant or non-public and provide accessors if needed.(ê§á„şÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"SMake lockTwo a static final constant or non-public and provide accessors if needed.(Ç´æ“
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S00108")Either remove or fill this block of code.(ä ¹€
+?squid:S00108")Either remove or fill this block of code.(ä ¹€
+Osquid:S1161":Add the "@Override" annotation above this method signature(“–ış
+Osquid:S1161":Add the "@Override" annotation above this method signature(“–ış
