@@ -1,0 +1,4 @@
+
+Osquid:S1068"5Remove this unused "decryptedPassword" private field.(€×Þ©תÿÿÿÿ
+Rsquid:S1172"8Remove this unused method parameter "decryptedPassword".(יבןûÿÿÿÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üֶיûÿÿÿÿ

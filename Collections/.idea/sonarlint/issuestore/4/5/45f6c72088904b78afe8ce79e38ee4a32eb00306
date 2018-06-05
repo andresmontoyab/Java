@@ -1,0 +1,42 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÇ“Íùÿÿÿÿ8¥èªÜ¼,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘‚Ñ¼ÿÿÿÿÿ8¢ÉŠİ¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸòÌ8’‡ İ¼,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.( Ê¯Çøÿÿÿÿ8’‡ İ¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃïÏä8õüÜ¼,
+9squid:S2386"Make this member "protected".(á£ºü8¥Õ•Û¼,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾¤½òşÿÿÿÿ8”ñŒİ¼,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ˆŸ×øÿÿÿÿ8¥èªÜ¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(áá¦8’‡ İ¼,
+Msquid:S1444"1Make this "public static solarSystem" field final(á£ºü8¥Õ•Û¼,
+Vsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÛ¨øúÿÿÿÿ8ˆäïÜ¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(øø¢í8’‡ İ¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûúƒ8’‡ İ¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úæ»8”ñŒİ¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ä¯÷8’‡ İ¼,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜¯‹h8’‡ İ¼,
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä¬¤şÿÿÿÿ
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(èé›28’‡ İ¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(§ÆÏì8¾ˆˆİ¼,
+Š"squid:ClassVariableVisibilityCheck"WMake solarSystem a static final constant or non-public and provide accessors if needed.(á£ºü8¥Õ•Û¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚óàõ8’‡ İ¼,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ºô‡ÿÿÿÿÿ8§…İ¼,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜¯‹h8’‡ İ¼,
